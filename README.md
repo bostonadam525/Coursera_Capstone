@@ -1,5 +1,4 @@
-# Coursera_Capstone
-IBM Data Science Professional Certificate Capstone Course
+# IBM Data Science Professional Certificate Capstone Course - Predicting Cardiovascular Disease
 Submissions by Adam Lang
 
 This was the final project I completed for the IBM Data Science Professional Certificate Program on coursera.
